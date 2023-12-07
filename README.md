@@ -1,4 +1,4 @@
-<h1>Filterering dates and numbers in SQL </h1>
+<h1>Filtering dates and numbers in SQL </h1>
 
  
 
