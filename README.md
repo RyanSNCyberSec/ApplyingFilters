@@ -9,6 +9,7 @@ In this scenario, I investigated a recent security incident. Here I will demonst
 
 <h2>Languages and Utilities Used</h2>
 
+- <b>MariaDB shell</b>
 - <b>SQL</b> 
 
 <h2>Environments Used </h2>
